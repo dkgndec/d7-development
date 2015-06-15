@@ -1,0 +1,3 @@
+ name = test_class
+ description= test module
+core=7.x
